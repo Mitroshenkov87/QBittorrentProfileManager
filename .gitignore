@@ -1,0 +1,21 @@
+# Build
+**/bin/
+**/obj/
+*.user
+*.suo
+.vs/
+*.DotSettings.user
+
+# Local publish output (release zip lives in dist/)
+publish/
+
+# Local runtime data if someone runs from tree
+**/config.json
+**/app.log
+**/backups/
+**/profiles/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
