@@ -5,6 +5,7 @@
 *.suo
 .vs/
 *.DotSettings.user
+.idea/
 
 # Local publish output (release zip lives in dist/)
 publish/
@@ -14,6 +15,11 @@ publish/
 **/app.log
 **/backups/
 **/profiles/
+
+# Secrets / env
+.env
+.env.*
+*.local
 
 # OS
 Thumbs.db
