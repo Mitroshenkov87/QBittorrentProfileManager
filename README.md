@@ -79,4 +79,4 @@ qBittorrent’s first launch give better odds. Always close qBittorrent before s
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+[MIT](LICENSE) — Copyright (c) 2026 Aleksandr Mitroshenkov.
